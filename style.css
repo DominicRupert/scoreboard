@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/000/825/009/fd1.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    flex-grow: 1;
+
+}
+.main{
+    
+    height: 100vh;
+}
+.row{
+    width: 35vw;
+    /* background-image: url(https://pa1.narvii.com/6938/e8789aea7725f4af833b02e3fb1d6a3b7e6993ffr1-316-320_hq.gif); */
+    background-size: cover;
+}
